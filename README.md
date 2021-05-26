@@ -1,14 +1,14 @@
 # PhoneGap Calendar plugin WITHOUT calendar permission
 
-1. [Description](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#1-description)
-2. [Installation](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#2-installation)
-	2. [Automatically](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#automatically)
-	2. [Manually](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#manually)
-	2. [PhoneGap Build](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#phonegap-build)
-3. [Usage](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#3-usage)
-4. [Promises](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#4-promises)
-5. [Credits](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#5-credits)
-6. [License](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#6-license)
+1. [Description](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#1-description)
+2. [Installation](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#2-installation)
+	2. [Automatically](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#automatically)
+	2. [Manually](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#manually)
+	2. [PhoneGap Build](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#phonegap-build)
+3. [Usage](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#3-usage)
+4. [Promises](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#4-promises)
+5. [Credits](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#5-credits)
+6. [License](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#6-license)
 
 ## 1. Description
 
@@ -16,7 +16,7 @@ This plugin allows you to add events to the Calendar of the mobile device.
 This fork only allows creating events 'interatively', without calendar read/write permission.
 
 * Works with PhoneGap >= 3.0.
-* For PhoneGap 2.x, see [the pre-3.0 branch](https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin/tree/pre-3.0).
+* For PhoneGap 2.x, see [the pre-3.0 branch](https://github.com/PXLWidgets/cordova-plugin-calendar-intent/tree/pre-3.0).
 * Compatible with [Cordova Plugman](https://github.com/apache/cordova-plugman).
 * [Officially supported by PhoneGap Build](https://build.phonegap.com/plugins).
 
@@ -33,7 +33,7 @@ cordova plugin add cordova-plugin-calendar --variable CALENDAR_USAGE_DESCRIPTION
 
 ### Automatically
 ```
-$ cordova plugin add https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin.git
+$ cordova plugin add https://github.com/PXLWidgets/cordova-plugin-calendar-intent.git
 ```
 
 ### Manually

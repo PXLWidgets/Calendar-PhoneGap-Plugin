@@ -17,9 +17,9 @@
 
   <keywords>Calendar, Agenda, Event</keywords>
 
-  <repo>https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin.git</repo>
+  <repo>https://github.com/PXLWidgets/cordova-plugin-calendar-intent.git</repo>
 
-  <issue>https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin/issues</issue>
+  <issue>https://github.com/PXLWidgets/cordova-plugin-calendar-intent/issues</issue>
 
   <engines>
       <engine name="cordova-android" version=">=6.3.0" />

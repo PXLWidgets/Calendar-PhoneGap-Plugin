@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin.git"
+    "url": "git+https://github.com/PXLWidgets/cordova-plugin-calendar-intent.git"
   },
   "keywords": [
     "Calendar",
@@ -31,7 +31,7 @@
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin/issues"
+    "url": "https://github.com/PXLWidgets/cordova-plugin-calendar-intent/issues"
   },
-  "homepage": "https://github.com/PXLWidgets/Calendar-PhoneGap-Plugin#readme"
+  "homepage": "https://github.com/PXLWidgets/cordova-plugin-calendar-intent#readme"
 }
