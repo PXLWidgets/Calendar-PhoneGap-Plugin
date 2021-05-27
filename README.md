@@ -1,4 +1,4 @@
-# PhoneGap Calendar plugin WITHOUT calendar permission
+# Cordova Calendar plugin WITHOUT calendar permission
 
 1. [Description](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#1-description)
 2. [Installation](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#2-installation)
