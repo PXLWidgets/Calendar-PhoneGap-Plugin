@@ -1,4 +1,4 @@
-# PhoneGap Calendar plugin WITHOUT calendar permission
+# PhoneGap Calendar plugin (without requiring calendar permission on Android (iOS still does))
 
 1. [Description](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#1-description)
 2. [Installation](https://github.com/PXLWidgets/cordova-plugin-calendar-intent#2-installation)

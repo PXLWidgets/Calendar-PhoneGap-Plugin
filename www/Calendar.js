@@ -9,6 +9,30 @@ Calendar.prototype.getCreateCalendarOptions = function () {
   };
 };
 
+Calendar.prototype.hasReadPermission = function (successCallback, errorCallback) {
+  cordova.exec(successCallback, errorCallback, "Calendar", "hasReadPermission", []);
+};
+
+Calendar.prototype.requestReadPermission = function (successCallback, errorCallback) {
+  cordova.exec(successCallback, errorCallback, "Calendar", "requestReadPermission", []);
+};
+
+Calendar.prototype.hasWritePermission = function (successCallback, errorCallback) {
+  cordova.exec(successCallback, errorCallback, "Calendar", "hasWritePermission", []);
+};
+
+Calendar.prototype.requestWritePermission = function (successCallback, errorCallback) {
+  cordova.exec(successCallback, errorCallback, "Calendar", "requestWritePermission", []);
+};
+
+Calendar.prototype.hasReadWritePermission = function (successCallback, errorCallback) {
+  cordova.exec(successCallback, errorCallback, "Calendar", "hasReadWritePermission", []);
+};
+
+Calendar.prototype.requestReadWritePermission = function (successCallback, errorCallback) {
+  cordova.exec(successCallback, errorCallback, "Calendar", "requestReadWritePermission", []);
+};
+
 Calendar.prototype.openCalendar = function (date, successCallback, errorCallback) {
   // default: today
   if (!(date instanceof Date)) {
